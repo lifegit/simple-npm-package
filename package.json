@@ -1,5 +1,5 @@
 {
-  "name": "simple-npm-package",
+  "name": "@thelife/simple-npm-package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
